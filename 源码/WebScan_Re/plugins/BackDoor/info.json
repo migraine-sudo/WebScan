@@ -1,0 +1,7 @@
+{
+  "name" : "BackDoor",
+  "author" : "Mr. Xu",
+  "version": "1.0.0.0",
+  "introduction": "A back door vulnerability scanner that scans the back door according to the URL.",
+  "how_to_use":"Select this module to enable it."
+}

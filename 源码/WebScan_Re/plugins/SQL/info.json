@@ -1,0 +1,7 @@
+{
+  "name" : "SQL",
+  "author" : "Mr. Xiao",
+  "version": "1.0.0.0",
+  "introduction": "A SQL injection checking module can query common SQL injection information, etc.",
+  "how_to_use":"Select this module to enable it."
+}

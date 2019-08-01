@@ -1,0 +1,5 @@
+[2019-07-27 14:22:52]SQL System boot
+[2019-07-27 14:22:55]Found SQL injection point=>http://127.0.0.1:8080/DVWA-master/vulnerabilities/sqli/
+[2019-07-27 14:23:05]	Source of the problem:Injection Type=> Character Injection 
+ 	no filter sensitive symbols
+[2019-07-27 14:23:05]for this problem. It is recommended to add filtering conditions, especially for single quotes. Other keywords >>; ,()* & ...... % #
